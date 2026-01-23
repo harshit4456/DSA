@@ -1,3 +1,4 @@
+//search in rotated sorted array
 class Solution {
 public:
 int getpivot(vector<int>& nums,int size){
@@ -46,3 +47,4 @@ int binarysearch(vector<int>& nums,int st,int end,int target){
     }
 
 };
+
