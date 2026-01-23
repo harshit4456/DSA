@@ -44,4 +44,5 @@ int binarysearch(vector<int>& nums,int st,int end,int target){
         }
         return ans;
     }
+
 };
